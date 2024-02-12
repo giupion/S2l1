@@ -1,0 +1,1 @@
+import{d as r}from"./isArrayLikeObject.a77a8422.js";import{i as t}from"./isString.c452d40b.js";const a=n=>t(n)?o(r(n)):"",o=n=>t(n)?n.replace(/(<([^>]+)>)/gi,""):"",i=n=>typeof n!="string"?n:n.replace(/(<|&lt;).*?\bon\w+=.*?(&gt;|>)/gmi,"");export{i as a,a as b,o as s};

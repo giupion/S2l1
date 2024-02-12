@@ -1,0 +1,30 @@
+/*
+Theme Name: ScapeRock
+Description: Used to style Gutenberg Blocks.
+*/
+
+.wp-block-file .wp-block-file__button,
+.wp-block-search .wp-block-search__button,
+.wp-block-button .wp-block-button__link {
+	background-color: #5252f2;
+}
+
+.is-style-outline .wp-block-button__link,
+.is-style-outline .more-link,
+.is-style-outline .button {
+	border: 1px solid #5252f2;
+}
+
+.wp-block-pullquote,
+.wp-block-pullquote.alignleft,
+.wp-block-pullquote.alignright,
+.wp-block-quote.is-large, .wp-block-quote.is-style-large,
+.wp-block-quote {
+	border-color: #5252f2;
+}
+
+.wp-block-quote:before {
+	color: #5252f2;
+}
+
+

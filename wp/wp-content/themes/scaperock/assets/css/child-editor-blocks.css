@@ -1,0 +1,75 @@
+/*
+Theme Name: ScapeRock
+Description: Used to style Gutenberg Blocks in the editor.
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 General Typography
+2.0 General Block Styles
+3.0 Blocks - Common Blocks
+4.0 Blocks - Formatting
+5.0 Blocks - Layout Elements
+6.0 Blocks - Widgets
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+1.0 General Typography
+--------------------------------------------------------------*/
+
+.block-editor .editor-styles-wrapper a:hover,
+.block-editor .editor-styles-wrapper a:focus {
+	color: #5252f2;
+}
+
+.editor-styles-wrapper ul li::marker {
+	color: #5252f2;
+}
+
+.wp-block-file .wp-block-file__button {
+	background-color: #5252f2;
+}
+
+
+/* Playlist */
+
+.wp-playlist .mejs-controls .mejs-time-rail .mejs-time-current,
+.wp-playlist .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+    background-color: #5252f2;
+}
+
+.mejs-playpause-button {
+    background-image: linear-gradient(to right, #5252f2, #279fff);
+}
+
+.mejs-playpause-button:hover,
+.mejs-playpause-button:focus {
+    background-image: linear-gradient(to right, #279fff, #5252f2);
+}
+
+
+/* COLOR */
+.wp-block-file .wp-block-file__button,
+.wp-block-search .wp-block-search__button,
+.wp-block-button .wp-block-button__link {
+	background-color: #5252f2;
+}
+
+.is-style-outline .wp-block-button__link,
+.is-style-outline .more-link,
+.is-style-outline .button {
+	border: 1px solid #5252f2;
+}
+
+.wp-block-quote:before {
+	color: #5252f2;
+}
+
+figure.wp-block-pullquote,
+.wp-block[data-align="right"] figure.wp-block-pullquote,
+.wp-block[data-align="left"] figure.wp-block-pullquote,
+.wp-block-pullquote.alignleft,
+.wp-block-pullquote.alignright {
+    border-color: #5252f2;
+}

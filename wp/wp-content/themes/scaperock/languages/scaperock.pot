@@ -1,0 +1,75 @@
+# Copyright (C) 2012-2022 Catch Themes
+# This file is distributed under the GNU General Public License, version 3 (GPLv3).
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ScapeRock\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2022-08-23 20:50-0700\n"
+"PO-Revision-Date: 2016-12-07 01:05-0500\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../functions.php:92
+msgid "Next Track"
+msgstr ""
+
+#: ../functions.php:93
+msgid "Previous Track"
+msgstr ""
+
+#: ../functions.php:94
+msgid "Toggle Playlist"
+msgstr ""
+
+#: ../functions.php:243
+msgctxt "Poppins: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:249
+msgctxt "Courgette: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/customizer/sticky-playlist.php:15
+msgid "Sticky Playlist"
+msgstr ""
+
+#: ../inc/customizer/sticky-playlist.php:25
+msgid "Enable on"
+msgstr ""
+
+#: ../inc/customizer/sticky-playlist.php:36
+msgid "Page"
+msgstr ""
+
+#: ../inc/customizer/sticky-playlist.php:45
+msgid "Sections Separator Background Image"
+msgstr ""
+
+#: ../inc/customizer/sticky-playlist.php:46
+msgid "Recommended Image Dimension: 1920x250"
+msgstr ""
+
+#: ../inc/customizer/sticky-playlist.php:57
+msgid "Background Image"
+msgstr ""
+
+#: ../template-parts/hero-content/post-type-hero.php:75
+#, php-format
+msgid "Edit %s"
+msgstr ""
